@@ -1,0 +1,19 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/lenovo/Desktop/EX/Chapter4/defines.v,1577353972,verilog,,,,,,,,,,,,
+C:/Users/lenovo/Desktop/EX/Chapter4/ex.v,1577366262,verilog,,C:/Users/lenovo/Desktop/EX/Chapter4/ex_mem.v,C:/Users/lenovo/Desktop/EX/Chapter4/defines.v,ex,,,,,,,,
+C:/Users/lenovo/Desktop/EX/Chapter4/ex_mem.v,1577366255,verilog,,C:/Users/lenovo/Desktop/EX/Chapter4/id.v,C:/Users/lenovo/Desktop/EX/Chapter4/defines.v,ex_mem,,,,,,,,
+C:/Users/lenovo/Desktop/EX/Chapter4/id.v,1577413956,verilog,,C:/Users/lenovo/Desktop/EX/Chapter4/id_ex.v,C:/Users/lenovo/Desktop/EX/Chapter4/defines.v,id,,,,,,,,
+C:/Users/lenovo/Desktop/EX/Chapter4/id_ex.v,1577366269,verilog,,C:/Users/lenovo/Desktop/EX/Chapter4/if_id.v,C:/Users/lenovo/Desktop/EX/Chapter4/defines.v,id_ex,,,,,,,,
+C:/Users/lenovo/Desktop/EX/Chapter4/if_id.v,1577366282,verilog,,C:/Users/lenovo/Desktop/EX/Chapter4/inst_rom.v,C:/Users/lenovo/Desktop/EX/Chapter4/defines.v,if_id,,,,,,,,
+C:/Users/lenovo/Desktop/EX/Chapter4/inst_rom.v,1577366292,verilog,,C:/Users/lenovo/Desktop/EX/Chapter4/mem.v,C:/Users/lenovo/Desktop/EX/Chapter4/defines.v,inst_rom,,,,,,,,
+C:/Users/lenovo/Desktop/EX/Chapter4/mem.v,1577366302,verilog,,C:/Users/lenovo/Desktop/EX/Chapter4/mem_wb.v,C:/Users/lenovo/Desktop/EX/Chapter4/defines.v,mem,,,,,,,,
+C:/Users/lenovo/Desktop/EX/Chapter4/mem_wb.v,1577366297,verilog,,C:/Users/lenovo/Desktop/EX/Chapter4/openmips.v,C:/Users/lenovo/Desktop/EX/Chapter4/defines.v,mem_wb,,,,,,,,
+C:/Users/lenovo/Desktop/EX/Chapter4/openmips.v,1577366316,verilog,,C:/Users/lenovo/Desktop/EX/Chapter4/openmips_min_sopc.v,C:/Users/lenovo/Desktop/EX/Chapter4/defines.v,openmips,,,,,,,,
+C:/Users/lenovo/Desktop/EX/Chapter4/openmips_min_sopc.v,1577373123,verilog,,C:/Users/lenovo/Desktop/EX/Chapter4/pc_reg.v,C:/Users/lenovo/Desktop/EX/Chapter4/defines.v,openmips_min_sopc,,,,,,,,
+C:/Users/lenovo/Desktop/EX/Chapter4/openmips_min_sopc_tb.v,1577414169,verilog,,,C:/Users/lenovo/Desktop/EX/Chapter4/defines.v,openmips_min_sopc_tb,,,,,,,,
+C:/Users/lenovo/Desktop/EX/Chapter4/pc_reg.v,1577366321,verilog,,C:/Users/lenovo/Desktop/EX/Chapter4/regfile.v,C:/Users/lenovo/Desktop/EX/Chapter4/defines.v,pc_reg,,,,,,,,
+C:/Users/lenovo/Desktop/EX/Chapter4/regfile.v,1577366326,verilog,,C:/Users/lenovo/Desktop/EX/Chapter4/openmips_min_sopc_tb.v,C:/Users/lenovo/Desktop/EX/Chapter4/defines.v,regfile,,,,,,,,
+C:/Users/lenovo/project_2/project_2.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
