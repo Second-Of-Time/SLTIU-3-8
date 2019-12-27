@@ -1,0 +1,30 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lenovo/Desktop/Group class set/project_5/project_5.srcs/sources_1/new/zhenlie.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module zhenlie
+INFO: [VRFC 10-311] analyzing module ireg
+INFO: [VRFC 10-311] analyzing module oreg
+INFO: [VRFC 10-311] analyzing module remreg
+INFO: [VRFC 10-311] analyzing module adder
+INFO: [VRFC 10-311] analyzing module complement
+INFO: [VRFC 10-311] analyzing module shift
+INFO: [VRFC 10-311] analyzing module chose
+INFO: [VRFC 10-311] analyzing module remrec
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lenovo/Desktop/Group class set/project_5/project_5.srcs/sources_1/new/chufa.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module zhenlie
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'zhenlie' [C:/Users/lenovo/Desktop/Group class set/project_5/project_5.srcs/sources_1/new/zhenlie.v:6]
+INFO: [VRFC 10-311] analyzing module ireg
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'ireg' [C:/Users/lenovo/Desktop/Group class set/project_5/project_5.srcs/sources_1/new/zhenlie.v:63]
+INFO: [VRFC 10-311] analyzing module oreg
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'oreg' [C:/Users/lenovo/Desktop/Group class set/project_5/project_5.srcs/sources_1/new/zhenlie.v:81]
+INFO: [VRFC 10-311] analyzing module remreg
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'remreg' [C:/Users/lenovo/Desktop/Group class set/project_5/project_5.srcs/sources_1/new/zhenlie.v:94]
+INFO: [VRFC 10-311] analyzing module adder
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'adder' [C:/Users/lenovo/Desktop/Group class set/project_5/project_5.srcs/sources_1/new/zhenlie.v:101]
+INFO: [VRFC 10-311] analyzing module complement
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'complement' [C:/Users/lenovo/Desktop/Group class set/project_5/project_5.srcs/sources_1/new/zhenlie.v:118]
+INFO: [VRFC 10-311] analyzing module shift
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'shift' [C:/Users/lenovo/Desktop/Group class set/project_5/project_5.srcs/sources_1/new/zhenlie.v:139]
+INFO: [VRFC 10-311] analyzing module chose
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'chose' [C:/Users/lenovo/Desktop/Group class set/project_5/project_5.srcs/sources_1/new/zhenlie.v:162]
+INFO: [VRFC 10-311] analyzing module remrec
+WARNING: [VRFC 10-3609] overwriting previous definition of module 'remrec' [C:/Users/lenovo/Desktop/Group class set/project_5/project_5.srcs/sources_1/new/zhenlie.v:193]
+INFO: [VRFC 10-311] analyzing module chufa
